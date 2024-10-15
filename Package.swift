@@ -24,8 +24,8 @@ let package = Package(
     ], targets: [
         //.binaryTarget(name: "libpng16", path: "xcframework/libpng16.zip"),
         //.binaryTarget(name: "libjpeg", path: "xcframework/libjpeg.zip"),
-    	.binaryTarget(name: "libpng16", url: "https://github.com/KivySwiftLink/ImageCore/releases/download/311.0.1/libpng16.zip", checksum: "b5b5e6839f0d06ec54a531ee95e652db56a16ab352ebb4e14896f92fac835aac"),
-    	.binaryTarget(name: "libjpeg", url: "https://github.com/KivySwiftLink/ImageCore/releases/download/311.0.1/libjpeg.zip", checksum: "6d7a77d7166c4dd8dd95113da141d249041b8b9cd5f9a8358c766246f2105f83"),
+    	.binaryTarget(name: "libpng16", url: "https://github.com/KivySwiftLink/ImageCore/releases/download/311.0.2/libpng16.zip", checksum: "52ed71e35918d92095e1730ebc012cfe79e5a301945e8dde18c5eac552097e90"),
+    	.binaryTarget(name: "libjpeg", url: "https://github.com/KivySwiftLink/ImageCore/releases/download/311.0.2/libjpeg.zip", checksum: "9ff9c8fa4e7a7340a414c5606683f8891180e066e71f23aeac7067c6a635629b"),
     ]
 
 )
