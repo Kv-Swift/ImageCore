@@ -13,13 +13,13 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "libjpeg",
-            url: "https://github.com/kivyswiftlink/ImageCore/releases/download/311.0.10/libjpeg.zip",
-            checksum: "f959cc9230ac1b2d34c09d9375c703cf7c12977b9b60aea4bf31c11fe6e3bfdc"
+            url: "https://github.com/kivyswiftlink/ImageCore/releases/download/311.0.11/libjpeg.zip",
+            checksum: "4272ed815b5ed1843e40d9ac7ec7797cb90fc8b290a29e01df5aeb8825f604fe"
         ),
         .binaryTarget(
             name: "libpng16",
-            url: "https://github.com/kivyswiftlink/ImageCore/releases/download/311.0.10/libpng16.zip",
-            checksum: "7b26447bf94d8cb2f29ca58de8caf7ff3f20761a8b4f900fea2571a7983cdff7"
+            url: "https://github.com/kivyswiftlink/ImageCore/releases/download/311.0.11/libpng16.zip",
+            checksum: "11518b22cb258139265f6d543e076a5dfb8e32c1c3c093a03d55d1d650f01759"
         )
     ]
 )
