@@ -13,13 +13,13 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "libjpeg",
-            url: "https://github.com/kv-swift/ImageCore/releases/download/311.1.14/libjpeg.zip",
-            checksum: "6c7696f97a86c259350385269cc679f0214cd9240c3ab45a98f47945dd5db777"
+            url: "https://github.com/kv-swift/ImageCore/releases/download/311.1.15/libjpeg.zip",
+            checksum: "804e668faf3ecc4757445b160c2eba77fa4ed46aa349e0cb41ba7ed8ce5be4d5"
         ),
         .binaryTarget(
             name: "libpng16",
-            url: "https://github.com/kv-swift/ImageCore/releases/download/311.1.14/libpng16.zip",
-            checksum: "22e3f60dd85d39294c944071743da1f1be8bd0c1305e033472a9bc0f08782778"
+            url: "https://github.com/kv-swift/ImageCore/releases/download/311.1.15/libpng16.zip",
+            checksum: "2de80a390b6b531a82cbbcc69c781e984fce064440ec8b6f141d1dbe9ec5711c"
         )
     ]
 )
